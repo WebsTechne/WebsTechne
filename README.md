@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS and a dash of JS.
 - 💞️ I’m looking to collaborate on a school website(with database).
 - 📫 How to reach me +2349134361209(whatsapp), triumphaidenojie08@gmail.com(email). 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: (I'm male so He/Him duh)
+- ⚡ Fun fact: the programming term "Bug" was inspired by a real bug in... (I don't know much of the details)
 
 <!---
 WebsTechne/WebsTechne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
